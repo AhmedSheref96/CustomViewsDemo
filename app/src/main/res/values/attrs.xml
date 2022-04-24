@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ContactCard">
+        <attr name="profileImage" format="reference" />
+        <attr name="profileName" format="string" />
+        <attr name="nameTextSize" format="dimension" />
+        <attr name="ageTextSize" format="dimension" />
+        <attr name="profileAge" format="string" />
+    </declare-styleable>
+</resources>
